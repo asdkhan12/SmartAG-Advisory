@@ -23,4 +23,5 @@ Clone Repository
 
 ```bash
 git clone https://github.com/your-org/smart-ag-advisory.git
-cd smart-ag-advisory
+cd smart-ag-advisory ***
+
