@@ -17,3 +17,10 @@ Built with Bootstrap and React’s component-based architecture, the front end i
 - **npm or yarn:** latest stable  
 - **MySQL:** v8+ (optional; only if you enable query logging/caching)  
 - **Browser:** Modern (Chrome, Firefox, Edge, Safari) 
+
+## Installation 
+Clone Repository
+
+```bash
+git clone https://github.com/your-org/smart-ag-advisory.git
+cd smart-ag-advisory
