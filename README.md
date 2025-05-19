@@ -7,7 +7,7 @@ The Smart Agriculture Advisory System is a responsive, web-based dashboard desig
 
 
 # Target Browsers
-Built with Bootstrap and React’s component-based architecture, the front end is fully responsive and mobile friendly. It supports all modern desktop browsers, Chrome, Firefox, Edge and Safari—plus mobile browsers such as Safari on iOS and Chrome on Android, ensuring farmers can access the advisory dashboard from smartphones, tablets or desktops alike
+Built with Bootstrap and React’s component-based architecture, the front end is fully responsive and mobile friendly. It supports all modern desktop browsers, Chrome, Firefox, Edge and Safari plus mobile browsers such as Safari on iOS and Chrome on Android, ensuring farmers can access the advisory dashboard from smartphones, tablets or desktops alike
 ```bash
 git clone https://github.com/asdkhan12/SmartAG-Advisory.git
 cd SmartAG-Advisory
