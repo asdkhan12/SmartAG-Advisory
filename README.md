@@ -11,3 +11,5 @@ Built with Bootstrap and React’s component-based architecture, the front end i
 ```bash
 git clone https://github.com/asdkhan12/SmartAG-Advisory.git
 cd SmartAG-Advisory
+
+# Developer Manual:
